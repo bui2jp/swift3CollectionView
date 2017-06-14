@@ -14,6 +14,7 @@
 		B09F9DA81EF11B1200B26DDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B09F9DA71EF11B1200B26DDC /* Assets.xcassets */; };
 		B09F9DAB1EF11B1200B26DDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B09F9DA91EF11B1200B26DDC /* LaunchScreen.storyboard */; };
 		B09F9DB31EF12ED100B26DDC /* CustomCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B09F9DB21EF12ED100B26DDC /* CustomCollectionCell.swift */; };
+		B09F9DB51EF1444200B26DDC /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = B09F9DB41EF1444200B26DDC /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B09F9DAA1EF11B1200B26DDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B09F9DAC1EF11B1200B26DDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B09F9DB21EF12ED100B26DDC /* CustomCollectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCollectionCell.swift; sourceTree = "<group>"; };
+		B09F9DB41EF1444200B26DDC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		B09F9D9C1EF11B1200B26DDC /* testCollectionView */ = {
 			isa = PBXGroup;
 			children = (
+				B09F9DB41EF1444200B26DDC /* README.md */,
 				B09F9D9D1EF11B1200B26DDC /* AppDelegate.swift */,
 				B09F9D9F1EF11B1200B26DDC /* ViewController.swift */,
 				B09F9DB21EF12ED100B26DDC /* CustomCollectionCell.swift */,
@@ -145,6 +148,7 @@
 			files = (
 				B09F9DB31EF12ED100B26DDC /* CustomCollectionCell.swift in Sources */,
 				B09F9DA01EF11B1200B26DDC /* ViewController.swift in Sources */,
+				B09F9DB51EF1444200B26DDC /* README.md in Sources */,
 				B09F9DA61EF11B1200B26DDC /* testCollectionView.xcdatamodeld in Sources */,
 				B09F9D9E1EF11B1200B26DDC /* AppDelegate.swift in Sources */,
 			);
